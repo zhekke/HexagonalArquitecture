@@ -1,4 +1,4 @@
-# Proyecto fake: arquitectura hexagonal
+# Proyecto: para explicar la arquitectura hexagonal
 
 Proyecto de ejemplo (solo para leer, no está pensado para ejecutarse) con UN módulo, `projects`, y UNA acción: crear proyecto.
 Cada fichero tiene comentarios que explican qué hace y por qué está ahí.
